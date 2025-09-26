@@ -1,4 +1,12 @@
-This is my personal website
+---
+permalink: /about/
+title: "About Me"
+author_profile: true
+---
+
+This is the About page of my website.  
+Here you can add details about yourself, your research, or anything else.
+
 <!--
 ---
 permalink: /
