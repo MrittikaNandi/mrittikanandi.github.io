@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "IN"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "    "
+title                    : "Home"
 title_separator          : ""
 name                     : &name "Mrittika Nandi"
 description              : &description "Mrittika's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
