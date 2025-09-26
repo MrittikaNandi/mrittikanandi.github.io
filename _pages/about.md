@@ -1,11 +1,13 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-This is the About page of my website.  
-Here you can add details about yourself, your research, or anything else.
+This is my personal website.
 
 <!--
 ---
